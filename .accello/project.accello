@@ -1,0 +1,29 @@
+{
+	"uuid": "34cfa8f7-0c90-479e-ae76-66fce1a3d8ec",
+	"errors": [],
+	"errorDetails": [],
+	"dataSources": [],
+	"analysisReports": [],
+	"icaModules": [],
+	"cloudDatabases": [],
+	"ansibelModules": [],
+	"migrationReports": [],
+	"name": "TestMigration01",
+	"type": "migration",
+	"repository": {
+		"uuid": "bad4c025-c9c5-4edd-b0b4-bd89043a71f9",
+		"errors": [],
+		"errorDetails": [],
+		"isDefault": true,
+		"name": "GIT-HUB_REPO",
+		"branch": "master",
+		"token": "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",
+		"type": "GIT",
+		"url": "https://github.com/acccrop/ansible-modules-core.git",
+		"vcsRepoToken": "ot-qnvqpkvMfTed7q7n",
+		"owner": "acccrop",
+		"host": "https://github.com",
+		"org": "",
+		"repoIdentifier": "acccrop/ansible-modules-core"
+	}
+}
